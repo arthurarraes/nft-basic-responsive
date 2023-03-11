@@ -1,0 +1,54 @@
+<svg width="680" height="680" viewBox="0 0 680 680" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_35_4560)">
+<path d="M680 0H0V680H680V0Z" fill="black"/>
+<rect width="340" height="85" transform="matrix(1 0 0 -1 170 510)" fill="#304AFF"/>
+<rect width="340" height="85" transform="matrix(1 0 0 -1 170 425)" fill="#01FCFF"/>
+<path d="M340 255C340 301.944 301.944 340 255 340V340V255H340V255Z" fill="white"/>
+<path d="M170 255C170 301.944 208.056 340 255 340V340V255H170V255Z" fill="black"/>
+<path d="M255 255H340V255C340 208.056 301.944 170 255 170V170V255Z" fill="#304AFF"/>
+<path d="M510 255C510 301.944 471.944 340 425 340V340V255H510V255Z" fill="white"/>
+<path d="M425 255H510V255C510 208.056 471.944 170 425 170V170V255Z" fill="#304AFF"/>
+<path d="M340 255C340 301.944 378.056 340 425 340V340V255H340V255Z" fill="black"/>
+<path d="M425 255H340V255C340 208.056 378.056 170 425 170V170V255Z" fill="#304AFF"/>
+<path d="M255 255H170V255C170 208.056 208.056 170 255 170V170V255Z" fill="#304AFF"/>
+<path d="M340 0V680" stroke="#CACACA" stroke-opacity="0.1"/>
+<path d="M510 0V680" stroke="#CACACA" stroke-opacity="0.1"/>
+<path d="M595 0V680" stroke="#CACACA" stroke-opacity="0.1"/>
+<path d="M170 0V680" stroke="#CACACA" stroke-opacity="0.1"/>
+<path d="M85 0V680" stroke="#CACACA" stroke-opacity="0.1"/>
+<path d="M425 0V680" stroke="#CACACA" stroke-opacity="0.1"/>
+<path d="M255 0V680" stroke="#CACACA" stroke-opacity="0.1"/>
+<path d="M680 340L0.000227124 340" stroke="#CACACA" stroke-opacity="0.1"/>
+<path d="M680 255L0.000227124 255" stroke="#CACACA" stroke-opacity="0.1"/>
+<path d="M680 510L0.000227124 510" stroke="#CACACA" stroke-opacity="0.1"/>
+<path d="M680 595L0.000227124 595" stroke="#CACACA" stroke-opacity="0.1"/>
+<path d="M680 170L0.000227124 170" stroke="#CACACA" stroke-opacity="0.1"/>
+<path d="M680 85L0.000227124 85" stroke="#CACACA" stroke-opacity="0.1"/>
+<path d="M680 425L0.000227124 425" stroke="#CACACA" stroke-opacity="0.1"/>
+<path d="M340 0V680" stroke="#CACACA" stroke-opacity="0.1"/>
+<path d="M510 0V680" stroke="#CACACA" stroke-opacity="0.1"/>
+<path d="M595 0V680" stroke="#CACACA" stroke-opacity="0.1"/>
+<path d="M170 0V680" stroke="#CACACA" stroke-opacity="0.1"/>
+<path d="M85 0V680" stroke="#CACACA" stroke-opacity="0.1"/>
+<path d="M425 0V680" stroke="#CACACA" stroke-opacity="0.1"/>
+<rect width="28.3333" height="28.3335" transform="matrix(1 0 0 -1 595 680)" fill="#01FCFF"/>
+<rect width="28.3333" height="28.3335" transform="matrix(1 0 0 -1 651.667 680)" fill="white"/>
+<rect width="28.3333" height="28.3335" transform="matrix(1 0 0 -1 623.333 680)" fill="#304AFF"/>
+<path d="M255 0V680" stroke="#CACACA" stroke-opacity="0.1"/>
+<path d="M680 340L0.000227124 340" stroke="#CACACA" stroke-opacity="0.1"/>
+<path d="M680 255L0.000227124 255" stroke="#CACACA" stroke-opacity="0.1"/>
+<path d="M680 510L0.000227124 510" stroke="#CACACA" stroke-opacity="0.1"/>
+<path d="M680 595L0.000227124 595" stroke="#CACACA" stroke-opacity="0.1"/>
+<path d="M680 170L0.000227124 170" stroke="#CACACA" stroke-opacity="0.1"/>
+<path d="M680 85L0.000227124 85" stroke="#CACACA" stroke-opacity="0.1"/>
+<path d="M680 425L0.000227124 425" stroke="#CACACA" stroke-opacity="0.1"/>
+<ellipse cx="510" cy="170" rx="8.48633" ry="8.48566" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M514.2 159.857C513.761 159.137 513.144 158.542 512.408 158.129C511.673 157.716 510.844 157.5 510 157.5C508.221 157.5 506.663 158.444 505.8 159.859C504.98 159.659 504.122 159.674 503.31 159.902C502.497 160.13 501.757 160.563 501.16 161.16C500.564 161.757 500.13 162.497 499.902 163.309C499.674 164.122 499.659 164.979 499.859 165.799C499.138 166.238 498.543 166.855 498.13 167.591C497.717 168.326 497.5 169.155 497.5 169.999C497.5 171.778 498.444 173.335 499.857 174.199C499.658 175.019 499.673 175.876 499.901 176.689C500.129 177.501 500.562 178.241 501.159 178.838C501.756 179.435 502.496 179.868 503.309 180.096C504.121 180.324 504.979 180.339 505.799 180.139C506.408 181.141 507.356 181.892 508.471 182.257C509.585 182.621 510.794 182.575 511.878 182.127C512.842 181.727 513.655 181.032 514.2 180.141C515.02 180.34 515.878 180.325 516.691 180.097C517.503 179.869 518.244 179.436 518.84 178.839C519.437 178.242 519.87 177.502 520.098 176.689C520.326 175.876 520.341 175.019 520.141 174.199C520.862 173.76 521.457 173.143 521.87 172.408C522.283 171.672 522.5 170.843 522.5 169.999C522.5 169.155 522.283 168.326 521.87 167.591C521.457 166.855 520.862 166.238 520.141 165.799C520.34 164.979 520.325 164.122 520.097 163.31C519.869 162.497 519.436 161.757 518.839 161.161C518.243 160.564 517.503 160.131 516.691 159.902C515.878 159.674 515.021 159.659 514.201 159.857H514.2ZM509.253 174.497L514.955 165.943C515.663 164.886 514.016 163.788 513.31 164.846L508.277 172.399L506.564 170.689C505.668 169.787 504.269 171.184 505.169 172.084L507.881 174.771C507.989 174.844 508.11 174.894 508.238 174.919C508.365 174.945 508.497 174.945 508.624 174.919C508.752 174.894 508.873 174.843 508.981 174.771C509.088 174.698 509.181 174.605 509.253 174.496V174.497Z" fill="white"/>
+<circle cx="340" cy="340" r="339.5" stroke="#232323"/>
+</g>
+<defs>
+<clipPath id="clip0_35_4560">
+<rect width="680" height="680" fill="white"/>
+</clipPath>
+</defs>
+</svg>
